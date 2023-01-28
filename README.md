@@ -10,6 +10,10 @@ Single cell 10X Cell Ranger outputs, bulk TCR sequencing data generated, and T c
 
 `/data/` can be populated with (375 MB) tar.gz data package, which can be downloaded directly from 10.5281/zenodo.7577149
 
+```
+tar -xvf data.tar.gz
+```
+
 ### Code
 
 Code for analysis and generation of figures is in the `/code/` folder.
