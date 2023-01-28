@@ -8,7 +8,7 @@ Single cell 10X Cell Ranger outputs, bulk TCR sequencing data generated, and T c
 
 [1] Address correspondence to Evan W. Newell (enewell@fredhutch.org) and M. Juliana McElrath (jmcelrat@fredhutch.org)
 
-`/data/` can be populated with (375 MB) tar.gz data package, which can be downloaded directly from 10.5281/zenodo.7577149
+`/data/` can be populated with a (375 MB) tar.gz data package, which can be downloaded directly from 10.5281/zenodo.7577149
 
 ```
 tar -xvf data.tar.gz
